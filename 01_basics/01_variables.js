@@ -13,3 +13,7 @@ accountCity = "Ghaziabad";
 // console.log(accountPassword);
 // console.log(accountCity);
 console.table([accountId, accountEmail, accountPassword, accountCity, accountState])  //return o/p in table form
+
+/*
+prefer not to use var bcz of issue in block scope and func
+*/
