@@ -1,4 +1,4 @@
-"use strct"; //treat all js code as newer js/version 
+"use strict"; //treat all js code as newer js/version 
 
 // alert(2+7) // not work here, bcz we are using nodejs not browser
 
